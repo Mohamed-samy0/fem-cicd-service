@@ -1,0 +1,4 @@
+{
+  "buildCommand": "echo \"Build skipped, handled by GitHub Actions\"",
+  "outputDirectory": "dist"
+}
